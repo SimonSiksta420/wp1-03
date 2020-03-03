@@ -36,6 +36,6 @@ else {
 <h3> Součin </h3>
 <?= $a; ?> * <?= $b; ?> = <?= $product; ?>
 <h3> Podíl </h3>
-<?= $a; ?> / <?= $b; ?> = <?= $difference; ?>
+<?= $a; ?> / <?= $b; ?> = <?= $portion; ?>
 </body>
 </html>
