@@ -1,6 +1,6 @@
 <?php
-$value1 = 20;
-$value2 = 0;
+$a = 20;
+$b = 0;
 
 $summary = $a + $b;
 $difference = $a - $b;
