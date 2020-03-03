@@ -27,15 +27,15 @@ else {
 </head>
 <body>
 <h1> Počítání v PHP </h1>
-<p> Proměnná A </p> <?= $value1; ?>
-<p> Proměnná B </p> <?= $value2; ?>
+<p> Proměnná A </p> <?= $a; ?>
+<p> Proměnná B </p> <?= $b; ?>
 <h3> Součet </h3>
-<?= $value1; ?> + <?= $value2; ?> = <?= $summary; ?>
+<?= $a; ?> + <?= $b; ?> = <?= $summary; ?>
 <h3> Rozdíl </h3>
-<?= $value1; ?> - <?= $value2; ?> = <?= $difference; ?>
+<?= $a; ?> - <?= $b; ?> = <?= $difference; ?>
 <h3> Součin </h3>
-<?= $value1; ?> * <?= $value2; ?> = <?= $product; ?>
+<?= $a; ?> * <?= $b; ?> = <?= $product; ?>
 <h3> Podíl </h3>
-<?= $value1; ?> / <?= $value2; ?> = <?= $difference; ?>
+<?= $a; ?> / <?= $b; ?> = <?= $difference; ?>
 </body>
 </html>
