@@ -2,15 +2,15 @@
 $value1 = "20";
 $value2 = "0";
 
-$summary = $a + $b
-$difference = $a - $b
-$product = $a * $b
+$summary = $a + $b;
+$difference = $a - $b;
+$product = $a * $b;
 
 if ($b != 0) {
-    $portion = $a / $b
+    $portion = $a / $b;
 }
 else {
-    $portion = "nelze dělit nulou"
+    $portion = "nelze dělit nulou";
 }
 
 ?>
